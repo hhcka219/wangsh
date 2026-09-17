@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "wangsh-research-skills",
+  "version": "0.1.0",
+  "description": "Pinned entry points and installers for three upstream research skill bundles.",
+  "author": {
+    "name": "hhcka219",
+    "url": "https://github.com/hhcka219"
+  },
+  "homepage": "https://github.com/hhcka219/wangsh",
+  "repository": "https://github.com/hhcka219/wangsh",
+  "license": "See upstream licenses in vendor submodules.",
+  "keywords": [
+    "research",
+    "scientific",
+    "nature",
+    "academic",
+    "codex"
+  ],
+  "skills": "./skills/"
+}
